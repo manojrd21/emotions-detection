@@ -96,4 +96,4 @@ Then click "Upload Image" to test emotion detection.
 ## Author
 
 Manoj Dhanawade  
-India | Python, AI/ML Developer
+India | Python, AI/ML Engineer
